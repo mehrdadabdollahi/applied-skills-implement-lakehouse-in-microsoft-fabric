@@ -1,0 +1,13 @@
+Welcome to the applied-skills-implement-lakehouse-in-microsoft-fabric wiki!
+
+Resources from my live session on 'Implementing a Lakehouse in Microsoft Fabric,' including session recordings, demo files, and scripts. Explore hands-on examples for creating, managing, and querying a Fabric lakehouse.
+
+[dates.csv](https://github.com/user-attachments/files/18667591/dates.csv)
+[orders.csv](https://github.com/user-attachments/files/18667592/orders.csv)
+[products.csv](https://github.com/user-attachments/files/18667594/products.csv)
+[customers_2.csv](https://github.com/user-attachments/files/18667595/customers_2.csv)
+[customers_1.csv](https://github.com/user-attachments/files/18667596/customers_1.csv)
+
+Below you can re-watch the full session to implement a lakehouse in Microsoft Fabric and pass the applied skill!
+
+[#FabricCoffee with Mehrdad Abdollahi - Applied Skill: Implement a Lakehouse in Microsoft Fabric!](https://www.youtube.com/live/isduFOOn_SE?si=A6KPSHJEoT2pGW3k)
