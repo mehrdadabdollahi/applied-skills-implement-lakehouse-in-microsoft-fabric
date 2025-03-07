@@ -1,0 +1,6 @@
+create view dbo.TotalSalesPerCustomer as
+SELECT c.FullName,sum(o.Total) as TotalSale
+from dbo.prod_orders o
+inner join dbo.prod_customers c
+on o.CustomerID=c.CustomerID
+group by c.FullName
